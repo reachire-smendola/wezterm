@@ -62,3 +62,5 @@ dhat-heap.json
 /assets/flatpak/generated-sources.json
 /__pycache__/
 /nix/result
+config.bat
+node_modules
